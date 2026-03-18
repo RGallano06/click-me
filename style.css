@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial;
+}
+
+#btn {
+    padding: 15px 25px;
+    font-size: 18px;
+    position: absolute;
+}
+
+#meme {
+    display: none;
+    width: 250px;
+    margin-top: 20px;
+}
